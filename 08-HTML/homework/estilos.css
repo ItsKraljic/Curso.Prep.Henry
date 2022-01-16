@@ -1,0 +1,30 @@
+h1 {
+  color: blue;
+}
+img {
+  width: 400px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: gray;
+  padding: 50px;
+  border: 2px solid red;
+}
+#spanId {
+  font-size: 18px;
+  margin: 40px;
+}
+body {
+  background: url("https://www.cuerpomente.com/medio/2021/06/23/luna-llena-de-fresa_6e818072_465x800.jpg");
+  color: white;
+}
+
+.contenedorflex {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  /*margin: 0 auto;*/
+  /*justify-content: center;*/
+  align-items: center;
+}
